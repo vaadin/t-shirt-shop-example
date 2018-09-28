@@ -1,0 +1,7 @@
+body {
+    background: url("/frontend/src/t-shirt.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: auto 80%;
+
+}
