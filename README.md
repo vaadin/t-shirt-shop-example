@@ -10,8 +10,8 @@ In addition this version submits the orders to a [JPA backend](https://docs.spri
 
 You can use it as a basis for your Vaadin experiments. To play around with the example, check it out using git or download the zip. Import it to your favorite IDE and execute the Application class or start the app from command line using: 
 
-    git clone https://github.com/vaadin/tshirt-shop-example.git
-    cd tshirt-shop-example
+    git clone https://github.com/vaadin/t-shirt-shop-example.git
+    cd t-shirt-shop-example
     mvn spring-boot:run
 
 The application opens to http://localhost:8080
